@@ -1,0 +1,13 @@
+C:\Users\Geo\code\wos\cSharp\WosPhone\bin\Debug\netcoreapp3.1\WosPhone.exe
+C:\Users\Geo\code\wos\cSharp\WosPhone\bin\Debug\netcoreapp3.1\WosPhone.deps.json
+C:\Users\Geo\code\wos\cSharp\WosPhone\bin\Debug\netcoreapp3.1\WosPhone.runtimeconfig.json
+C:\Users\Geo\code\wos\cSharp\WosPhone\bin\Debug\netcoreapp3.1\WosPhone.runtimeconfig.dev.json
+C:\Users\Geo\code\wos\cSharp\WosPhone\bin\Debug\netcoreapp3.1\WosPhone.dll
+C:\Users\Geo\code\wos\cSharp\WosPhone\bin\Debug\netcoreapp3.1\WosPhone.pdb
+C:\Users\Geo\code\wos\cSharp\WosPhone\obj\Debug\netcoreapp3.1\WosPhone.csprojAssemblyReference.cache
+C:\Users\Geo\code\wos\cSharp\WosPhone\obj\Debug\netcoreapp3.1\WosPhone.AssemblyInfoInputs.cache
+C:\Users\Geo\code\wos\cSharp\WosPhone\obj\Debug\netcoreapp3.1\WosPhone.AssemblyInfo.cs
+C:\Users\Geo\code\wos\cSharp\WosPhone\obj\Debug\netcoreapp3.1\WosPhone.csproj.CoreCompileInputs.cache
+C:\Users\Geo\code\wos\cSharp\WosPhone\obj\Debug\netcoreapp3.1\WosPhone.dll
+C:\Users\Geo\code\wos\cSharp\WosPhone\obj\Debug\netcoreapp3.1\WosPhone.pdb
+C:\Users\Geo\code\wos\cSharp\WosPhone\obj\Debug\netcoreapp3.1\WosPhone.genruntimeconfig.cache
